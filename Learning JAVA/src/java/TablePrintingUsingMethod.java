@@ -1,9 +1,9 @@
-package hello;
+package java;
 
-public class Printtable {
+public class TablePrintingUsingMethod {
 
 	public static void main(String[] args) {
-		Hello table= new Hello();
+		MethodBackbone table= new MethodBackbone();
 		//table.Print();
 		//table.Print(6);
 		table.Print(8,3,15);
