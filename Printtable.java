@@ -6,7 +6,7 @@ public class Printtable {
 		Hello table= new Hello();
 		//table.Print();
 		//table.Print(6);
-		table.Print(6,2,15);
+		table.Print(8,3,15);
 
 	}
 
