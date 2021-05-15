@@ -1,4 +1,4 @@
-package java;
+package javaby;
 
 public class TablePrintingUsingMethod {
 

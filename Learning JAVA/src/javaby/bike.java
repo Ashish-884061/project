@@ -1,4 +1,4 @@
-package java;
+package javaby;
 
 public class bike {
 
@@ -12,6 +12,9 @@ public class bike {
 		
 		Ducati.speed = 100;
 		Honda.speed = 20;
+		
+		System.out.println(Ducati.speed);
+		System.out.println(Honda.speed);
 
 	}
 
